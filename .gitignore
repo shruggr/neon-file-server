@@ -1,0 +1,7 @@
+node_modules
+bus
+data
+.env
+tape.txt
+.vscode
+lmdb
